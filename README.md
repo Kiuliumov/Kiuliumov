@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-Hi there! I'm Kiuliumov, a Python and JavaScript developer passionate about turning ideas into efficient and elegant code. 🐍💻 Excited about building with Django, Flask, and React.js. Let's connect and code something amazing together! I started coding back in 2021 and currently I'm currently studying down the SoftUni python path and working on loads of LeetCode problems every day.
+Hi there! I'm Kiuliumov, a Python and JavaScript developer passionate about turning ideas into efficient and elegant code. 🐍💻 Excited about building with Django, Flask, and React.js. Let's connect and code something amazing together! I started coding back in 2021 and currently I'm studying down the SoftUni python path and working on loads of LeetCode problems every day.
 
 * 🌍  I'm based in Plovdiv
 * 🧠  I'm learning Django
