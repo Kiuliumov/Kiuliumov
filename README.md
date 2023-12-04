@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dimitur Kiuliumov</h1>
-<h3 align="center">Hi there! I'm Kiuliumov, a Python and JavaScript developer passionate about turning ideas into efficient and elegant code. 🐍💻 Excited about building with Django, Flask, and React.js. Let's connect and code something amazing together! I started coding back in 2021 and currently I'm working on loads of LeetCode problems every day.</h3>
+<h3 align="center">Hi there! I'm Kiuliumov, a Python and JavaScript developer passionate about turning ideas into efficient and elegant code. 🐍💻 Excited about building with Django, Flask, and React.js. Let's connect and code something amazing together! I started coding back in 2021 and currently, I'm working on loads of LeetCode problems every day.</h3>
 
 - 🔭 I’m currently working on [EconomyBot](https://github.com/Kiuliumov/EconomyBot)
 
