@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dimitur Kiuliumov</h1>
-<h3 align="center">Hi there! I'm Kiuliumov
+<h3 align="center"
 - 🔭 I’m currently working on [EconomyBot](https://github.com/Kiuliumov/EconomyBot)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Kiuliumov/](https://github.com/Kiuliumov/)
 
 - 📝 I regularly write articles on [https://discord.gg/kCBN9RFP](https://discord.gg/kCBN9RFP)
