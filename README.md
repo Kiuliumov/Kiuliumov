@@ -15,5 +15,5 @@ Dimitur Kiuliumov<br>Hello! I'm a full-stack developer from Bulgaria with a stro
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiuliumov&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kiuliumov&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://i.imgur.com/0IWb7dn.gif)
 
