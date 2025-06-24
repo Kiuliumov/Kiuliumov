@@ -1,7 +1,7 @@
 # 💫 About Me:
 Dimitur Kiuliumov<br>Hello! I'm a full-stack developer from Bulgaria with a strong passion for programming and mathematics. After graduating from high school, I will go after a degree in Computer Science at the Technical University of Sofia.<br><br>🔧 Skilled in Django, Node.js, Express & ChatBot Development for Reddit / Telegram / Discord<br>📱 Passionate about UI/UX and responsive design<br>🚀 Always learning new tools and improving my craft
 
-![](https://i.pinimg.com/originals/e3/f6/df/e3f6df810aa65403723512d579bb32c2.gif)
+![]([https://i.pinimg.com/originals/e3/f6/df/e3f6df810aa65403723512d579bb32c2.gif](https://i.imgur.com/0IWb7dn.gif))
 
 
 ## 🌐 Socials:
