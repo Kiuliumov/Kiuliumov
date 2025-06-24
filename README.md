@@ -15,4 +15,4 @@ Dimitur Kiuliumov<br>Hello! I'm a full-stack developer from Bulgaria with a stro
 ---
 [![](https://visitcount.itsvg.in/api?id=Kiuliumov&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://i.pinimg.com/originals/e3/f6/df/e3f6df810aa65403723512d579bb32c2.gif)
