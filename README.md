@@ -8,7 +8,7 @@ After graduating from high school, I will pursue a degree in **Computer Science*
 📱 Passionate about UI/UX and responsive design  
 🚀 Always learning new tools and improving my craft  
 
-![Anime Gif](https://media.giphy.com/media/N256GFy1u6M6Y/giphy.gif)
+![](https://cdna.artstation.com/p/assets/images/images/016/733/442/original/vitaliy-zaramenskikh-.gif?1553253568)
 
 ---
 
