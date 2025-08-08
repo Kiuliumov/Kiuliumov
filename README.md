@@ -16,6 +16,7 @@ After graduating from high school, I will pursue a degree in **Computer Science*
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/UEjnQeAHYx)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kiuliumov)
+[![Website](https://img.shields.io/badge/Website-%23007ACC.svg?logo=Google-Chrome&logoColor=white)](https://yourwebsite.com)
 
 ---
 
