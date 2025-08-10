@@ -11,14 +11,22 @@ After graduating from high school, I will pursue a degree in **Computer Science*
 ![](https://cdna.artstation.com/p/assets/images/images/016/733/442/original/vitaliy-zaramenskikh-.gif?1553253568)
 
 ---
+## 🎓 Education
 
-🎓 Education
-SU "Vasil Levski" - Karlovo - Extensive learning of languages
+### SU "Vasil Levski" – Karlovo  
+*Extensive learning of languages*
 
-Software University - 2024 – 2025 with GPA: 6.00 / 6.00
+---
 
-2025 – 2029 Technical University of Sofia — Computer Science - Ongoing
+### Software University  
+**2024 – 2025**  
+**GPA:** 6.00 / 6.00
 
+---
+
+### Technical University of Sofia  
+**2025 – 2029 (Ongoing)**  
+🎓 Bachelor’s Degree in **Computer Science**
 
 ## 🌐 Connect With Me
 
