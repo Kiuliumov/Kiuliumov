@@ -28,14 +28,17 @@ After graduating from high school, I will pursue a degree in **Computer Science*
 **2025 – 2029 (Ongoing)**  
 🎓 Bachelor’s Degree in **Computer Science**
 
-💼 Experience
-Freelancer — Chatbot Developer
-2021 – Present
-Developing and selling custom chatbots for platforms including Reddit, Telegram, and Discord. Specializing in automation, user interaction, and seamless integration.
+## 💼 Experience
 
-Intern at Nemetscheck Bulgaria, Plovdiv — ASP.NET Developer
-Summer 2025
-Gained hands-on experience working with ASP.NET technologies, contributing to real-world projects and improving software development skills in a professional environmen
+**Freelancer — Chatbot Developer**  
+*2021 – Now*  
+Developing and selling custom chatbots for platforms including **Reddit**, **Telegram**, and **Discord**. Specializing in automation, user interaction, and seamless integration to enhance user experience.
+
+---
+
+**Intern at Nemetscheck Bulgaria, Plovdiv — ASP.NET Developer**  
+*Summer 2025*  
+Gained hands-on experience working with **ASP.NET** technologies, contributing to real-world projects and honing software development skills in a professional environment.
 ## 🌐 Connect With Me
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/UEjnQeAHYx)
