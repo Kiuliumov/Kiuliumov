@@ -14,7 +14,7 @@ After graduating from high school, I will pursue a degree in **Computer Science*
 ---
 ## 🎓 Education
 
-### SU "Vasil Levski" – Karlovo  
+### SU "Vasil Levski" – Karlovo  ( 2013 - 2025 )
 *Extensive learning of languages*
 
 ---
