@@ -12,6 +12,14 @@ After graduating from high school, I will pursue a degree in **Computer Science*
 
 ---
 
+🎓 Education
+SU "Vasil Levski" - Karlovo - Extensive learning of languages
+
+Software University - 2024 – 2025 with GPA: 6.00 / 6.00
+
+2025 – 2029 Technical University of Sofia — Computer Science - Ongoing
+
+
 ## 🌐 Connect With Me
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/UEjnQeAHYx)
