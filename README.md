@@ -3,11 +3,8 @@
 
 **Dimitur Kiuliumov**  
 Hello! I'm a full-stack developer from **Bulgaria** with a strong passion for **programming** and **mathematics**.  
-After graduating from high school, I will pursue a degree in **Computer Science** at the Technical University of Sofia.
+After graduating from high school, I am pursuing a degree in **Computer Science** at the Technical University of Sofia.
 
-🔧 Skilled in: Django, Node.js, Express & ChatBot Development (Reddit / Telegram / Discord)  
-📱 Passionate about UI/UX and responsive design  
-🚀 Always learning new tools and improving my craft  
 
 ![](https://cdna.artstation.com/p/assets/images/images/016/733/442/original/vitaliy-zaramenskikh-.gif?1553253568)
 
