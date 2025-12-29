@@ -55,6 +55,4 @@ After graduating from high school, I am pursuing a degree in **Computer Science*
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiuliumov&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ---
