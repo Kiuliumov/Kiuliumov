@@ -50,9 +50,3 @@ After graduating from high school, I am pursuing a degree in **Computer Science*
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
----
